@@ -3,7 +3,13 @@
  * @author Valerian GOMBAULT 
  */
 
-hey
+
+
+
+HEY
+
+
+
 class SimplesTableau {
     /**
      * Cette classe effectue des opérations élémentaires sur un ou plusieurs tableaux d'entiers. La taille d'un tableau est par définition le nombre
